@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A photo album web page
 
-This project is used material UI components to build a responsive web design.
+This project uses material UI components to build a responsive web design.
 
 <img width="1435" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/63085397/120732209-c50dfa00-c499-11eb-8e1b-55bb86979c4b.png">
 
