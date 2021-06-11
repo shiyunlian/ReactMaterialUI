@@ -1,8 +1,10 @@
 # A photo album web page
 
-This project uses material UI components to build a responsive web design.
+This project uses material UI components to build a responsive photo album web page.
 
-<img width="1405" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/63085397/121647062-d1bac100-ca4a-11eb-96c6-f85bef78340c.png">
+<img width="1434" alt="Screen Shot 3" src="https://user-images.githubusercontent.com/63085397/121647404-39710c00-ca4b-11eb-9b18-ea341960e391.png">
+<img width="323" alt="Screen Shot 5" src="https://user-images.githubusercontent.com/63085397/121647422-3c6bfc80-ca4b-11eb-991a-ad7aee74650a.png">
+
 
 
 
