@@ -68,7 +68,7 @@ const App = () => {
         <div className={classes.container}>
           <Container maxWidth="sm">
             <Typography
-              varient="h2"
+              variant="h2"
               align="center"
               color="textPrimary"
               gutterBottom
@@ -76,7 +76,7 @@ const App = () => {
               Photo Album
             </Typography>
             <Typography
-              varient="h5"
+              variant="h5"
               align="center"
               color="textSecondary"
               paragraph
@@ -86,12 +86,12 @@ const App = () => {
             <div className={classes.button}>
               <Grid container spacing={2} justify="center">
                 <Grid item>
-                  <Button varient="contained" color="primary">
+                  <Button variant="contained" color="primary">
                     See my photos
                   </Button>
                 </Grid>
                 <Grid item>
-                  <Button varient="outlined" color="primary">
+                  <Button variant="outlined" color="primary">
                     Secondary action
                   </Button>
                 </Grid>
@@ -110,10 +110,10 @@ const App = () => {
                     title="Image title"
                   ></CardMedia>
                   <CardContent className={classes.cardContent}>
-                    <Typography gutterBottom varient="h5">
+                    <Typography gutterBottom variant="h5">
                       Heading
                     </Typography>
-                    <Typography gutterBottom varient="h5">
+                    <Typography gutterBottom variant="h5">
                       This is a media card.
                     </Typography>
                   </CardContent>
@@ -132,10 +132,10 @@ const App = () => {
         </Container>
       </main>
       <footer className={classes.footer}>
-        <Typography varient="h6" align="center" gutterbottom>
+        <Typography variant="h6" align="center" gutterbottom>
           Footer
         </Typography>
-        <Typography varient="subtitle1" align="center" color="textSecondary">
+        <Typography variant="subtitle1" align="center" color="textSecondary">
           Thank you
         </Typography>
       </footer>
